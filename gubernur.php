@@ -37,5 +37,7 @@ $pengalaman = "Bupati Mempawah (2009–2018)<br>Wakil Gubernur Kalimantan Barat 
       <td><?php echo $pengalaman; ?></td>
     </tr>
   </table>
+  <p>Klik link di bawah ini untuk ke halaman Index</p>
+  <a href="index.php">Kembali ke halaman Index</a>
 </body>
 </html>
