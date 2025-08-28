@@ -13,7 +13,7 @@ $pengalaman = "Bupati Mempawah (2009–2018)<br>Wakil Gubernur Kalimantan Barat 
   <title>Biodata Ria Norsan</title>
   <style>
     body {background-color: #FCEEED;
-          body { font-family: verdana; }
+          font-family: verdana; }
   </style>
 </head>
 <body>
