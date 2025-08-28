@@ -12,7 +12,8 @@ $makan = "Kuliner Pontianak";
         <style>
             h1 { text-align: center;}
             body { font-family: san fransisco;
-                 background-color: #FFC0CB; }
+                 background-color: #FCEEED; }
+            footer { backgrounf-color: #FAE6E4; }
             
         </style>
     </head>
