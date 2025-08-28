@@ -58,7 +58,7 @@ $makan = "Kuliner Pontianak";
                     <p>Biasanya disajikan hangat dengan bawang putih goreng dan saus asam manis, serta ditata di baki berisi 15–50 potong. Rasanya gurih dan lezat menjadikannya favorit wisatawan dan oleh-oleh khas <?php echo $judul?>.</p>
                 </article>
                 <p>Klik di bawah untuk melihat biodata Gubernur Kalimantan Barat!</p>
-                <a href="gubernur.php">Biodata Gubernur Kalimantan Barat</a>
+                <a href="home.php">Biodata Gubernur Kalimantan Barat</a>
             </div>
         </main>
     <footer>
