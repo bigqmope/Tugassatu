@@ -3,7 +3,7 @@ $nama = "Ria Norsan";
 $ttl = "17 Desember 1967";
 $agama = "Islam";
 $gender = "Pria";
-$pengalaman = "Bupati Mempawah (2009–2018), Wakil Gubernur Kalimantan Barat (2018–2023), Gubernur Kalimantan Barat (2025–2030).";
+$pengalaman = "Bupati Mempawah (2009–2018)<br>Wakil Gubernur Kalimantan Barat (2018–2023)<br>Gubernur Kalimantan Barat (2025–2030).";
 ?>
 
 <!DOCTYPE html>
