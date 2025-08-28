@@ -9,6 +9,12 @@ $makan = "Kuliner Pontianak";
     <head>
         <meta charset = "utf-8"> 
         <title>Halaman Profil <?php echo $judul?></title>
+        <style>
+            h1 { text-align: center;}
+            body { font-family: san fransisco;
+                 background-color: #FFC0CB; }
+            
+        </style>
     </head>
     <body>
         <header>
